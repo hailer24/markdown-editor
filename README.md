@@ -1,5 +1,4 @@
-# Getting Started with Create React App
-
+# A basic markdown Editor using react and it's basic properties of hook and context
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
